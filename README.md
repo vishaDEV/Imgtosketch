@@ -1,2 +1,2 @@
 # Imgtosketch
-Python program to convert image to sketch or pencile animation
+Python program to convert image to sketch or pencil animation
